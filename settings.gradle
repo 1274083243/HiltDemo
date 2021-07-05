@@ -1,0 +1,3 @@
+include ':moudule1'
+include ':app'
+rootProject.name = "HiltDemo"
